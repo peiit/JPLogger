@@ -1,0 +1,22 @@
+{
+    "name": "peiit/jplogger",
+    "description": "Customer logger for Laravel/Lumen",
+    "keywords": ["log", "logger","Laravel", "Lumen"],
+    "require": {
+        "monolog/monolog": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Peiit\\JPLogger\\": "src/"
+        }
+    },
+
+    "license": "MIT",
+    "minimum-stability" : "dev",
+    "authors": [
+        {
+            "name": "peiit",
+            "email": "admin@peiit.com"
+        }
+    ]
+}
