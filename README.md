@@ -8,7 +8,7 @@ This is a customer logger base of [monolog](https://github.com/Seldaek/monolog) 
 ## Install 安装
 
 ```shell
-  composer require peiit/jplogger dev-master
+  composer require peiit/jplogger
 ```
 
 ## Configuration 配置
